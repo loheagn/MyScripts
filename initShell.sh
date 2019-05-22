@@ -11,3 +11,5 @@ alias homecode="cd /mnt/c/Users/LiNan/OneDrive/SourceCode/"
 alias home="cd /mnt/c/Users/LiNan/"
 
 alias homedoc="cd /mnt/c/Users/LiNan/OneDrive/文档/"
+
+export PATH=/Users/loheagn/MyScripts:$PATH
