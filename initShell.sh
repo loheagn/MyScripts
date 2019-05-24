@@ -18,7 +18,7 @@ alias home="cd /mnt/c/Users/LiNan/"
 
 alias homedoc="cd /mnt/c/Users/LiNan/OneDrive/文档/"
 
-alias code="cd /Users/loheagn/OneDrive/Code"
+alias ccode="cd /Users/loheagn/OneDrive/Code"
 
 export PATH=/Users/loheagn/MyScripts:$PATH
 
