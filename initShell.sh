@@ -12,15 +12,11 @@ alias aliyun="ssh 'loheagn@39.96.166.183'"
 
 alias aliyun-root="ssh 'root@39.96.166.183'"
 
-alias vultr="ssh 'loheagn@2001:19f0:6001:444c:5400:02ff:fe02:730e'"
+alias vultr="ssh 'loheagn@2001:19f0:6801:12d1:5400:02ff:fe10:54e3'"
 
-alias homecode="cd /mnt/c/Users/LiNan/OneDrive/SourceCode/"
+alias vultr-root="ssh 'root@2001:19f0:6801:12d1:5400:02ff:fe10:54e3'"
 
-alias home="cd /mnt/c/Users/LiNan/"
-
-alias homedoc="cd /mnt/c/Users/LiNan/OneDrive/文档/"
-
-alias ccode="cd /Users/loheagn/OneDrive/Code"
+alias ccode="cd ~/Code"
 
 export PATH=/Users/loheagn/MyScripts:$PATH
 
