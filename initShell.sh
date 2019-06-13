@@ -18,6 +18,6 @@ alias vultr-root="ssh 'root@2001:19f0:6801:12d1:5400:02ff:fe10:54e3'"
 
 alias ccode="cd ~/Code"
 
-export PATH=/Users/loheagn/MyScripts:$PATH
+export PATH=~/MyScripts:$PATH
 
 alias scpr="rsync -P --rsh=ssh"
