@@ -18,6 +18,8 @@ alias vultr-root="ssh 'root@95.179.208.47'"
 
 alias ccode="cd ~/Code"
 
+alias start-mongodb="brew services start mongodb"
+
 export PATH=~/MyScripts:$PATH
 
 alias scpr="rsync -P --rsh=ssh"
