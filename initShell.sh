@@ -25,3 +25,6 @@ alias start-mongodb="brew services start mongodb"
 export PATH=~/MyScripts:$PATH
 
 alias scpr="rsync -P --rsh=ssh"
+
+export PUB_HOSTED_URL=https://pub.flutter-io.cn
+export FLUTTER_STORAGE_BASE_URL=https://storage.flutter-io.cn
