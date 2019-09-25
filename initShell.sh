@@ -22,6 +22,8 @@ alias chome="cd /mnt/c/Users/LiNan"
 
 alias cdesktop="cd /mnt/c/Users/LiNan/Desktop"
 
+alias sudosshd="sudo /usr/sbin/sshd"
+
 export PATH=~/MyScripts:$PATH
 
 alias scpr="rsync -P --rsh=ssh"
