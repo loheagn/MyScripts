@@ -18,7 +18,9 @@ alias vultr-root="ssh 'root@95.179.208.47'"
 
 alias huaweiyun-root="ssh 'root@114.116.189.128'"
 
-alias ccode="cd ~/Code"
+alias chome="cd /mnt/c/Users/LiNan"
+
+alias cdesktop="cd /mnt/c/Users/LiNan/Desktop"
 
 export PATH=~/MyScripts:$PATH
 
