@@ -20,8 +20,6 @@ alias huaweiyun-root="ssh 'root@114.116.189.128'"
 
 alias ccode="cd ~/Code"
 
-alias start-mongodb="brew services start mongodb"
-
 export PATH=~/MyScripts:$PATH
 
 alias scpr="rsync -P --rsh=ssh"
