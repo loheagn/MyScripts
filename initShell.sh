@@ -18,6 +18,8 @@ alias vultr-root="ssh 'root@95.179.208.47'"
 
 alias huaweiyun-root="ssh 'root@114.116.189.128'"
 
+alias buaa="ssh 'buaa@10.251.254.138'"
+
 alias ccode="cd ~/Code"
 
 alias start-mongodb="brew services start mongodb"
